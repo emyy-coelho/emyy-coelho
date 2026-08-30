@@ -1,5 +1,5 @@
 <h2 align="left">Hello World, I'm Emilly Coelho. Welcome to my profile!</h2>
-<table>
+<!--<table>
   <tr>
     <td>
       <a href="https://github.com/emyy-coelho">
@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
-<!--
+
 <div> 
   <a href="mailto:freelancejobslfn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laviniaferraz-v1ih/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
