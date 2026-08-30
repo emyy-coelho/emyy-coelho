@@ -4,15 +4,15 @@
 
 <br><br>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=emyy-coelho&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
   <img src="https://github-readme-stats.shion.dev/api?username=emyy-coelho&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
 </div>
 
 <br><br>
 
-<h3 align="center">🛠️ Technologies and Skills</h3>
-<div align="center">
+### 🛠️ Technologies and Skills
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
