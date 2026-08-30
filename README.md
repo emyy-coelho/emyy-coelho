@@ -13,7 +13,6 @@
 <br><br>
 
 ### 🛠️ Technologies and Skills
-<img align="right" height="90" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTQ4bHZneGY5andnZHAwbnoxYWo4OHo0ZWE4Z3ZrOTJ2ZXFtM3ZubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KbS9Y51reW6Nd1QyIf/giphy.gif"/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -22,6 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  &nbsp;&nbsp;
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTQ4bHZneGY5andnZHAwbnoxYWo4OHo0ZWE4Z3ZrOTJ2ZXFtM3ZubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KbS9Y51reW6Nd1QyIf/giphy.gif" height="70"/>
 </div>
 
 <br><br>
