@@ -1,4 +1,7 @@
 <h2 align="left">Hello World, I'm Emilly Coelho. Welcome to my profile!</h2>
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/77/ee/f1/77eef18d24ef496f6332f7f89142388c.gif"  />
+<div align="left">
 <!--<table>
   <tr>
     <td>
@@ -13,8 +16,7 @@
     </td>
   </tr>
 </table>
-<img align="right" height="150" src="https://i.pinimg.com/originals/77/ee/f1/77eef18d24ef496f6332f7f89142388c.gif"  />
-<div align="left">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -25,7 +27,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
-
 <div> 
   <a href="mailto:freelancejobslfn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laviniaferraz-v1ih/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
