@@ -1,4 +1,4 @@
-<h2 align="left">Olá mundo, eu sou Emily Coelho. Bem-vindo(a) ao meu perfil!</h2>
+<h2 align="left">Olá mundo, eu sou a Emily Coelho. Bem-vindo(a) ao meu perfil!</h2>
 
 <br><br>
 <div align="center">
